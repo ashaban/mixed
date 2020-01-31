@@ -2,7 +2,7 @@
 
 <table border='1' cellspacing='0'>
     <tr>
-      <th colspan='4'>Decision Rules</th>
+      <th colspan='3'>Decision Rules</th>
     </tr>
     <tr>
       <th>#</th><th>Field</th><th>Algorithm</th><th>Threshold</th>
