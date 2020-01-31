@@ -10,3 +10,8 @@
 | Content Cell  | Content Cell  |
 
 | 2020-12-10 |
+<html><table>
+  <tr>
+    <td>Hello</td>
+  </tr>
+  </table>
